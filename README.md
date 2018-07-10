@@ -1,4 +1,4 @@
-# How to use the starter_pack_static_WEB2020_hetic
+# How to start the project
 
 ## Installation
 
@@ -44,3 +44,5 @@ gulp indent : Indents automatically all your html, scss and JS files.
 gulp watch : Watches changes in your html, scss and JS files and builds minified files.
 
 gulp build : Builds minified files.
+
+## ENJOY
